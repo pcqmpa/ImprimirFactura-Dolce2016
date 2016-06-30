@@ -1,0 +1,45 @@
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\test.exe.config
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\test.exe
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\test.pdb
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\ImprimirDolce.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\BarcodeLib.Barcode.WinForms.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\ImprimirDolce.pdb
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Resources\Logo_Dolce.jpg
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.Prism.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\System.Windows.Interactivity.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.Prism.pdb
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.Prism.xml
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.Prism.Interactivity.pdb
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.Prism.MefExtensions.pdb
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\System.Windows.Interactivity.xml
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Reimprimir Factura NUeva\Resources\Logo_Dolce.jpg
+F:\Reimprimir Factura NUeva\test.exe.config
+F:\Reimprimir Factura NUeva\test.exe
+F:\Reimprimir Factura NUeva\test.pdb
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\obj\Debug\test.exe
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\obj\Debug\test.pdb
+F:\Reimprimir Factura NUeva\Resources\Anita.jpg
+G:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\obj\Debug\test.exe
+G:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\obj\Debug\test.pdb
+G:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+H:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\obj\Debug\test.exe
+H:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\obj\Debug\test.pdb
+H:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+F:\Reimprimir Factura NUeva\Resources\Logo_Dolce_1.png
+F:\Reimprimir Factura NUeva\Resources\publicidad-dolce.jpg

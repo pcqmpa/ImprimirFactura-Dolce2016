@@ -1,0 +1,45 @@
+D:\Generador Imprimir Factura Dolce\ImprimirDolce.dll.config
+D:\Generador Imprimir Factura Dolce\ImprimirDolce.dll
+D:\Generador Imprimir Factura Dolce\ImprimirDolce.pdb
+D:\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.Properties.Resources.resources
+D:\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.csproj.GenerateResource.Cache
+D:\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.dll
+D:\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.pdb
+E:\Paulo\DiscoD\Generador Imprimir Factura Dolce\ImprimirDolce.dll.config
+E:\Paulo\DiscoD\Generador Imprimir Factura Dolce\ImprimirDolce.dll
+E:\Paulo\DiscoD\Generador Imprimir Factura Dolce\ImprimirDolce.pdb
+E:\Paulo\DiscoD\Generador Imprimir Factura Dolce\Resources\Logo_Dolce.jpg
+D:\Generador Imprimir Factura\Resources\Logo_Dolce.jpg
+D:\Generador Imprimir Factura\ImprimirDolce.dll.config
+D:\Generador Imprimir Factura\ImprimirDolce.dll
+D:\Generador Imprimir Factura\ImprimirDolce.pdb
+E:\Paulo\DiscoD\Dolce.Facturacion.Wpf.Shell\Dolce.Facturacion.Wpf.Shell\bin\Debug\Extensions\Resources\Logo_Dolce.jpg
+E:\Paulo\DiscoD\Dolce.Facturacion.Wpf.Shell\Dolce.Facturacion.Wpf.Shell\bin\Debug\Extensions\ImprimirDolce.dll.config
+E:\Paulo\DiscoD\Dolce.Facturacion.Wpf.Shell\Dolce.Facturacion.Wpf.Shell\bin\Debug\Extensions\ImprimirDolce.dll
+E:\Paulo\DiscoD\Dolce.Facturacion.Wpf.Shell\Dolce.Facturacion.Wpf.Shell\bin\Debug\Extensions\ImprimirDolce.pdb
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.Properties.Resources.resources
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.csproj.GenerateResource.Cache
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.dll
+E:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.pdb
+F:\cd\Imprimir Dolce\Resources\Logo_Dolce.jpg
+F:\cd\Imprimir Dolce\Resources\Anita.jpg
+F:\cd\Imprimir Dolce\ImprimirDolce.dll.config
+F:\cd\Imprimir Dolce\ImprimirDolce.dll
+F:\cd\Imprimir Dolce\ImprimirDolce.pdb
+G:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.Properties.Resources.resources
+G:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.csproj.GenerateResource.Cache
+G:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.dll
+G:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.pdb
+G:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.csprojResolveAssemblyReference.cache
+F:\DllImprimirPdf\Resources\Logo_Dolce.jpg
+F:\DllImprimirPdf\Resources\Anita.jpg
+F:\DllImprimirPdf\Resources\Logo_Dolce_1.png
+F:\DllImprimirPdf\Resources\publicidad-dolce.jpg
+F:\DllImprimirPdf\ImprimirDolce.dll.config
+F:\DllImprimirPdf\ImprimirDolce.dll
+F:\DllImprimirPdf\ImprimirDolce.pdb
+H:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.Properties.Resources.resources
+H:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.csproj.GenerateResource.Cache
+H:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.dll
+H:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.pdb
+H:\Paulo\DiscoD\Proyecto ImprimirFactura Nuevo 2013\ImprimirDolce\ImprimirDolce\obj\Debug\ImprimirDolce.csprojResolveAssemblyReference.cache
